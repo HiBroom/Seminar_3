@@ -2,3 +2,4 @@
 
 ## Work with remote repository
 * git clone - crerate clone repository
+* git init - initialize repository
